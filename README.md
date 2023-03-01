@@ -10,3 +10,5 @@ Here you can find all of my solutions from JavaScript Advanced course in Softwar
 [3. Arrays and nasted arrays - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Arrays%20and%20nasted%20arrays%20-%20Lab)
 
 [4. Arrays and nasted arrays - Exercise](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Arrays%20and%20nasted%20arrays%20-%20Exercise)
+
+[5. Objects and compositions - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Objects%20and%20compositions%20-%20Lab)
