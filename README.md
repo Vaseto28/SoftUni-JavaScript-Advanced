@@ -18,3 +18,5 @@ Here you can find all of my solutions from JavaScript Advanced course in Softwar
 [7. DOM introduction - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/DOM%20introduction%20-%20Lab)
 
 [8. DOM introduction - Exercise](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/DOM%20introduction%20-%20Exercise)
+
+[9. DOM manipulations and events](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/DOM%20Manipulations%20and%20events%20-%20Lab)
