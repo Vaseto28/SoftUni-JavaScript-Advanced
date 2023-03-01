@@ -14,3 +14,5 @@ Here you can find all of my solutions from JavaScript Advanced course in Softwar
 [5. Objects and compositions - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Objects%20and%20compositions%20-%20Lab)
 
 [6. Objects and compositions - Exercise](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Objects%20and%20compositions%20-%20Exercise)
+
+[7. DOM introduction - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/DOM%20introduction%20-%20Lab)
