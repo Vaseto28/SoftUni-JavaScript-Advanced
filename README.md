@@ -24,3 +24,5 @@ Here you can find all of my solutions from JavaScript Advanced course in Softwar
 [10. DOM manipulations and events - Exercise](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/DOM%20Manipulations%20and%20events%20-%20Exercise)
 
 [11. Advanced functions - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Advanced%20functions%20-%20Lab)
+
+[12. Advanced functions - Exercise](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Advanced%20functions%20-%20Exercise)
