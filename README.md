@@ -26,3 +26,5 @@ Here you can find all of my solutions from JavaScript Advanced course in Softwar
 [11. Advanced functions - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Advanced%20functions%20-%20Lab)
 
 [12. Advanced functions - Exercise](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Advanced%20functions%20-%20Exercise)
+
+[13. Unit testing and error handling - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Unit%20testing%20and%20error%20handling%20-%20Lab)
