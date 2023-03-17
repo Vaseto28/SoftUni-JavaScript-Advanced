@@ -40,3 +40,5 @@ Here you can find all of my solutions from JavaScript Advanced course in Softwar
 [18. Prototypes and inheritance - Exercise](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Prototypes%20and%20inheritance%20-%20Exercise)
 
 [19. Exam preparations](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Exam%20preparations)
+
+[20. Regular exam](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Regular%20exam)
