@@ -34,3 +34,5 @@ Here you can find all of my solutions from JavaScript Advanced course in Softwar
 [15. Classes and attributes - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Classes%20and%20attributes%20-%20Lab)
 
 [16. Classes and attributes - Exercise](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Classes%20and%20attributes%20-%20Exercise)
+
+[17. Prototypes and inheritance - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Ptototypes%20and%20inheritance%20-%20Lab)
