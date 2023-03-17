@@ -30,3 +30,5 @@ Here you can find all of my solutions from JavaScript Advanced course in Softwar
 [13. Unit testing and error handling - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Unit%20testing%20and%20error%20handling%20-%20Lab)
 
 [14. Unit testing and error handling - Exercise](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Unit%20testing%20and%20error%20handling%20-%20Exercise)
+
+[15. Classes and attributes - Lab](https://github.com/Vaseto28/SoftUni-JavaScript-Advanced/tree/main/Classes%20and%20attributes%20-%20Lab)
